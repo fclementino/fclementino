@@ -11,7 +11,7 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-## 🎯 Foco atual
+## Foco atual
 
 -  Desenvolvimento Java  
 -  Aprendendo Spring Boot  
@@ -23,7 +23,7 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Conhecimentos atuais
 
@@ -40,7 +40,7 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-## 🚀 Objetivos para 2026
+## Objetivos para 2026
 
 -  Fortalecer fundamentos de Java  
 -  Dominar Spring Boot  
@@ -51,5 +51,5 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
-📚 Sempre aprendendo, construindo e evoluindo.
+Obrigado por visitar meu perfil!  
+Sempre aprendendo, construindo e evoluindo.
